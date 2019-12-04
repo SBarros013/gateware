@@ -1,0 +1,11 @@
+/home/naian/projects/gateware/q1/bin/Debug/netcoreapp2.2/q1.deps.json
+/home/naian/projects/gateware/q1/bin/Debug/netcoreapp2.2/q1.runtimeconfig.json
+/home/naian/projects/gateware/q1/bin/Debug/netcoreapp2.2/q1.runtimeconfig.dev.json
+/home/naian/projects/gateware/q1/bin/Debug/netcoreapp2.2/q1.dll
+/home/naian/projects/gateware/q1/bin/Debug/netcoreapp2.2/q1.pdb
+/home/naian/projects/gateware/q1/obj/Debug/netcoreapp2.2/q1.csprojAssemblyReference.cache
+/home/naian/projects/gateware/q1/obj/Debug/netcoreapp2.2/q1.csproj.CoreCompileInputs.cache
+/home/naian/projects/gateware/q1/obj/Debug/netcoreapp2.2/q1.AssemblyInfoInputs.cache
+/home/naian/projects/gateware/q1/obj/Debug/netcoreapp2.2/q1.AssemblyInfo.cs
+/home/naian/projects/gateware/q1/obj/Debug/netcoreapp2.2/q1.dll
+/home/naian/projects/gateware/q1/obj/Debug/netcoreapp2.2/q1.pdb

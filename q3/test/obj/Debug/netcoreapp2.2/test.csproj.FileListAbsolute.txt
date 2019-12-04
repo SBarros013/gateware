@@ -1,0 +1,17 @@
+/home/naian/projects/gateware/q3/test/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/naian/projects/gateware/q3/test/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/home/naian/projects/gateware/q3/test/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/home/naian/projects/gateware/q3/test/bin/Debug/netcoreapp2.2/test.deps.json
+/home/naian/projects/gateware/q3/test/bin/Debug/netcoreapp2.2/test.runtimeconfig.json
+/home/naian/projects/gateware/q3/test/bin/Debug/netcoreapp2.2/test.runtimeconfig.dev.json
+/home/naian/projects/gateware/q3/test/bin/Debug/netcoreapp2.2/test.dll
+/home/naian/projects/gateware/q3/test/bin/Debug/netcoreapp2.2/test.pdb
+/home/naian/projects/gateware/q3/test/bin/Debug/netcoreapp2.2/project.dll
+/home/naian/projects/gateware/q3/test/bin/Debug/netcoreapp2.2/project.pdb
+/home/naian/projects/gateware/q3/test/obj/Debug/netcoreapp2.2/test.csprojAssemblyReference.cache
+/home/naian/projects/gateware/q3/test/obj/Debug/netcoreapp2.2/test.csproj.CoreCompileInputs.cache
+/home/naian/projects/gateware/q3/test/obj/Debug/netcoreapp2.2/test.AssemblyInfoInputs.cache
+/home/naian/projects/gateware/q3/test/obj/Debug/netcoreapp2.2/test.AssemblyInfo.cs
+/home/naian/projects/gateware/q3/test/obj/Debug/netcoreapp2.2/test.csproj.CopyComplete
+/home/naian/projects/gateware/q3/test/obj/Debug/netcoreapp2.2/test.dll
+/home/naian/projects/gateware/q3/test/obj/Debug/netcoreapp2.2/test.pdb

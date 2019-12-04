@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/naian/projects/gateware/q1/q1.csproj": {}
+  },
+  "projects": {
+    "/home/naian/projects/gateware/q1/q1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/naian/projects/gateware/q1/q1.csproj",
+        "projectName": "q1",
+        "projectPath": "/home/naian/projects/gateware/q1/q1.csproj",
+        "packagesPath": "/home/naian/.nuget/packages/",
+        "outputPath": "/home/naian/projects/gateware/q1/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/naian/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
